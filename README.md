@@ -3,6 +3,7 @@ Get an Average of 3 numbers C++
 
 
 /****************************************************************
+
 Arash Misaghi
 
 Write a program that will read in 3 numebrs from users and
