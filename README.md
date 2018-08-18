@@ -6,6 +6,8 @@ Arash Misaghi
 Write a program that will read in 3 numebrs from users and
 will print the average (to 2 decimal places) of those numebrs. 
 ****************************************************************/
+
+
 #include<iomanip>
 #include<iostream>
 using namespace std;
