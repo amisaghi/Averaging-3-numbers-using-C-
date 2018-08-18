@@ -13,7 +13,9 @@ will print the average (to 2 decimal places) of those numebrs.
 
 
 #include<iomanip>
+	
 #include<iostream>
+	
 using namespace std;
 
 
