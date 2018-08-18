@@ -1,5 +1,7 @@
 # Averaging-3-numbers-using-C-
 Get an Average of 3 numbers C++
+
+
 /****************************************************************
 Arash Misaghi
 
@@ -8,12 +10,18 @@ will print the average (to 2 decimal places) of those numebrs.
 ****************************************************************/
 
 
+
 #include<iomanip>
 #include<iostream>
 using namespace std;
 
+
+
 int main() 
 {
+
+
+
 	float num1, num2, num3;	        // alocation of 3 numbers 
 	float avg;			// average
 
@@ -26,6 +34,7 @@ int main()
 
 	avg = float (num1 + num2 + num3) / 3;
 	cout << "The average of the three numbers is " << setprecision(2)<< fixed << avg << endl; // 2 decimal
+	
 
   	system("pause");
 	return 0;
